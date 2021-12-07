@@ -99,7 +99,7 @@ If you want to get a local copy going to modify it you can clone it with github.
 
 ### Prerequisites
 
-- Install github and login with your account [Github](https://docs.github.com/en/get-started)
+- Install [Github](https://docs.github.com/en/get-started) and login with your account 
 
 ### Installation
 
