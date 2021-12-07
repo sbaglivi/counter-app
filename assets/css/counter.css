@@ -3,6 +3,12 @@
   padding: 0px;
   box-sizing: border-box;
 }
+@font-face {
+  font-family: 'Tourney';
+  src: url("../fonts/Tourney-Medium.ttf");
+  font-weight: 500;
+  font-style: normal;
+}
 html,
 body {
   height: 100%;
