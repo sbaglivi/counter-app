@@ -94,6 +94,7 @@
 ## Getting Started
 
 If you want to simply use the app you can visit https://start2impact-counter-app.web.app
+
 If you want to get a local copy going to modify it you can clone it with github.
 
 ### Prerequisites
