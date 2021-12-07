@@ -29,53 +29,18 @@
 
 <h3 align="center">Counter-app</h3>
 
-  <p align="center">
-    Simple app - made for a start2impact project - that allows the user to increase or decrease a visible counter at the press of a button.
-    <br />
-    <a href="https://github.com/sbaglivi/counter-app"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/sbaglivi/counter-app/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/sbaglivi/counter-app/issues">Request Feature</a>
-  </p>
+<p align="center">
+  Simple app - made for a start2impact project - that allows the user to increase or decrease a visible counter at the press of a button.
+</p>
+![website_image](https://user-images.githubusercontent.com/53193868/124948058-a8bd2a00-e010-11eb-8f9c-376f73b844f2.png)
+  <a href="https://github.com/sbaglivi/counter-app"><strong>Explore the docs »</strong></a>
+  <br />
+  <a href="https://github.com/sbaglivi/counter-app/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/sbaglivi/counter-app/issues">Request Feature</a>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-![product-screenshot](https://user-images.githubusercontent.com/53193868/124948058-a8bd2a00-e010-11eb-8f9c-376f73b844f2.png)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+### To use the app online visit: https://start2impact-counter-app.web.app
 
 ### Built With
 
@@ -89,8 +54,6 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-If you want to simply use the app you can visit https://start2impact-counter-app.web.app
 
 If you want to get a local copy going to modify it you can clone it with github.
 
