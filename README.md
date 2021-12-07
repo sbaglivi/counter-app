@@ -32,17 +32,23 @@
 <p align="center">
   Simple app - made for a start2impact project - that allows the user to increase or decrease a visible counter at the press of a button.
 </p>
-![website_image](https://user-images.githubusercontent.com/53193868/124948058-a8bd2a00-e010-11eb-8f9c-376f73b844f2.png)
+  
+ ![website_image](https://user-images.githubusercontent.com/53193868/124948058-a8bd2a00-e010-11eb-8f9c-376f73b844f2.png)
+  
+  
+  <p>
   <a href="https://github.com/sbaglivi/counter-app"><strong>Explore the docs »</strong></a>
   <br />
   <a href="https://github.com/sbaglivi/counter-app/issues">Report Bug</a>
   ·
   <a href="https://github.com/sbaglivi/counter-app/issues">Request Feature</a>
+  </p>
 </div>
+<h3 align="center"> To use the app online visit: <a href="https://start2impact-counter-app.web.app">start2impact-counter-app.web.app</a></h3>
+</br>
 
-### To use the app online visit: https://start2impact-counter-app.web.app
-
-### Built With
+<!--- BUILT WITH -->
+## Built With
 
 * [Javascript](https://javascript.com/)
 * [HTML](https://en.wikipedia.org/wiki/HTML/)
@@ -78,7 +84,7 @@ If you want to ⬆️ increase the counter, press the + button.
 
 If you instead want to ⬇️ decrease the counter, press the - button.
 
-
+<p align="right">(<a href="#top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
 ## Contributing
 
