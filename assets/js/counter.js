@@ -1,6 +1,17 @@
-let counter = document.getElementById("counter");
-let increaseButton = document.getElementById("increase");
-let decreaseButton = document.getElementById("decrease");
+let counter = document.createElement("h1");
+counter.setAttribute("id", "counter");
+counter.textContent = "0";
+document.body.append(counter);
+let increaseButton = document.createElement("button");
+increaseButton.textContent = "+";
+let decreaseButton = document.createElement("button");
+decreaseButton.textContent = "-";
+let buttonsDiv = document.createElement("div");
+buttonsDiv.classList.add("buttons");
+buttonsDiv.append(increaseButton);
+buttonsDiv.append(decreaseButton);
+document.body.append(buttonsDiv);
+
 let currValue = getCookie() ?? 0;
 if (currValue !== 0) {
   counter.textContent = currValue;
